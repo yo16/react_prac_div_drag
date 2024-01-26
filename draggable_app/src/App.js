@@ -1,7 +1,10 @@
+import ReactDraggableSample from "./ReactDraggableSample";
 
 function App() {
   return (
-    <>app</>
+    <>
+      <ReactDraggableSample />
+    </>
   );
 }
 
